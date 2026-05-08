@@ -1,7 +1,7 @@
 name = "ERA5Reanalysis"
 uuid = "99c076f5-c00e-46eb-a0bd-7ba31777c146"
 authors = ["Nathanael Wong <natgeo.wong@outlook.com>"]
-version = "0.5.2"
+version = "0.5.3"
 
 [deps]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
@@ -34,7 +34,7 @@ NCDatasets = "0.14"
 PrettyTables = "3"
 Printf = "1"
 Reexport = "1"
-RegionGrids = "0.1"
+RegionGrids = "0.1.5, 0.2"
 Statistics = "1"
 Unitful = "1"
 UnitfulParsableString = "0.1"
